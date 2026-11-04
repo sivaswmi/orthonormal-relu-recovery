@@ -3,7 +3,7 @@
 Code for my COMP30013 research thesis (University of Melbourne, 2026), supervised by Dr Jean Honorio.
 The thesis is included as [`thesis.pdf`](thesis.pdf).
 
-We study recovery of the weights of A = U* ReLU(V* X) with orthonormal V* from Gaussian inputs, comparing the
+We study recovery of the weights of A = U* ReLU(V* X) with orthonormal V*, and Gaussian input samples, comparing the
 ICA-based exact recovery algorithm of Bakshi, Jayaram & Woodruff (COLT 2019) with gradient descent:
 
 - a finite-sample implementation of their orthonormal-V* algorithm, and a diagnosis of where its error comes from (the thresholding step)
