@@ -1,7 +1,7 @@
 # Recovering Two-Layer ReLU Networks: ICA vs Gradient Descent
 
 Code for my COMP30013 research thesis (University of Melbourne, 2026), supervised by Dr Jean Honorio.
-The thesis is included as [`Thesis___COMP30013.pdf`](Thesis___COMP30013.pdf.pdf).
+The thesis is included as [`Thesis___COMP30013.pdf`](Thesis___COMP30013.pdf).
 
 We study recovery of the weights of A = U* ReLU(V* X) with orthonormal V*, and Gaussian input samples, comparing the
 ICA-based exact recovery algorithm of Bakshi, Jayaram & Woodruff (COLT 2019) with gradient descent:
